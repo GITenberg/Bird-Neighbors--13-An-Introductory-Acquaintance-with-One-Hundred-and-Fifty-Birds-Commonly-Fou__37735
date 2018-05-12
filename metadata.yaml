@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/738
     wikipedia: http://en.wikipedia.org/wiki/Neltje_Blanchan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37735#Bird-Neighbors--13-An-Introductory-Acquaintance-with-One-Hundred-and-Fifty-Birds-Commonly-Fou_
 gutenberg_issued: '2011-10-12'
 gutenberg_type: Text
 identifiers:
